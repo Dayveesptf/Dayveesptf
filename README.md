@@ -19,9 +19,9 @@ I specialize in crafting clean, scalable, and maintainable code using **JavaScri
 
 ### 📊 GitHub Stats  
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviesdavid&show_icons=true&theme=radical)  
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayveesptf&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviesdavid&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayveesptf&layout=compact&theme=radical)  
 
 ---
 
