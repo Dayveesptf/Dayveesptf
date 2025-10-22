@@ -10,8 +10,9 @@ I specialize in crafting clean, scalable, and maintainable code using **JavaScri
 ---
 
 ### 🛠️ Tech Stack  
-- **Frontend**: React, Next.js, TypeScript, JavaScript (ES6+), shadcn/ui, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
+- **Frontend**: React, Next.js, TypeScript, JavaScript (ES6+), ShadcnUI, Tailwind CSS  
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB  
 - **Design & Prototyping**: Figma  
 - **Other Interests**: Blockchain, Web3  
 
